@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">FootballQuizz</string>
+    <string name="checkButton">CHECK</string>
+    <string name="question_1">Question 1</string>
+    <string name="world_text_view">Which Team got more World Cups?</string>
+    <string name="brasil">Brasil</string>
+    <string name="argentina">Argentina</string>
+    <string name="germany">Germany</string>
+    <string name="italy">Italy</string>
+    <string name="mascot">Who won the most Prices in the last 10 Years?</string>
+    <string name="question_2">Question 2</string>
+    <string name="question_3">Question 3</string>
+    <string name="keywords">Which country have England played the more than 4 times?</string>
+    <string name="poland">Poland</string>
+    <string name="china">China</string>
+    <string name="ecuador">Ecuador</string>
+    <string name="sweden">Sweden</string>
+    <string name="question_4">Question 4</string>
+    <string name="european">Which European Country won the most FIFA Youth World Cups?</string>
+    <string name="portugal">Portugal</string>
+    <string name="russia">Russia</string>
+    <string name="france">France</string>
+    <string name="slovenia">Slovenia</string>
+    <string name="question_5">Question 5</string>
+    <string name="manager">Who was the only Manager to win the FIFA World Cup twice?</string>
+    <string name="mourinho">Jose Mourinho</string>
+    <string name="menotti">Carlos Menotti</string>
+    <string name="pozzo">Victorio Pozzo</string>
+    <string name="gaal">Louis Van Gaal</string>
+    <string name="try_again">TRY AGAIN</string>
+</resources>
